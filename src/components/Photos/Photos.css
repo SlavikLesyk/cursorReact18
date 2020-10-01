@@ -1,0 +1,12 @@
+.photos__content{
+    display: flex;
+    flex-wrap: wrap; 
+    
+}
+
+.photo{
+  width: 23%;
+  margin: 1%;
+  border: 2px solid rgb(84, 206, 115);
+}
+

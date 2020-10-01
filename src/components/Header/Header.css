@@ -1,0 +1,42 @@
+.main-menu{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 40px;
+  width: 100vw;
+  background: #15202b;
+  z-index: 10;
+
+}
+
+.main-menu__list{
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-menu__item{
+  flex: 1 0;
+  text-align: center;
+}
+
+.main-menu__link{
+  color: #8899a6;
+  line-height: 37px;
+  transition: .2s all;
+  padding: 0 10px;
+  font-size: 20px;
+}
+
+.main-menu__link:hover,
+.main-menu__link:focus{
+  border-bottom: 2px solid rgb(84, 206, 115);
+  color:rgb(84, 206, 115);
+  cursor: pointer;
+}
+
+.main-menu__link, 
+.main-menu__link:visited, 
+.main-menu__link:hover{
+  text-decoration: none;
+}
+  
