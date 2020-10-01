@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursorReact18/static/css/main.0d91319a.chunk.css",
+    "main.js": "/cursorReact18/static/js/main.7657da04.chunk.js",
+    "main.js.map": "/cursorReact18/static/js/main.7657da04.chunk.js.map",
+    "runtime-main.js": "/cursorReact18/static/js/runtime-main.71962fd3.js",
+    "runtime-main.js.map": "/cursorReact18/static/js/runtime-main.71962fd3.js.map",
+    "static/js/2.e1367f03.chunk.js": "/cursorReact18/static/js/2.e1367f03.chunk.js",
+    "static/js/2.e1367f03.chunk.js.map": "/cursorReact18/static/js/2.e1367f03.chunk.js.map",
+    "index.html": "/cursorReact18/index.html",
+    "precache-manifest.faf15678973c273d939904038952fa08.js": "/cursorReact18/precache-manifest.faf15678973c273d939904038952fa08.js",
+    "service-worker.js": "/cursorReact18/service-worker.js",
+    "static/css/main.0d91319a.chunk.css.map": "/cursorReact18/static/css/main.0d91319a.chunk.css.map",
+    "static/js/2.e1367f03.chunk.js.LICENSE.txt": "/cursorReact18/static/js/2.e1367f03.chunk.js.LICENSE.txt",
+    "static/media/anonymous_avatar.png": "/cursorReact18/static/media/anonymous_avatar.c4b9c178.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71962fd3.js",
+    "static/js/2.e1367f03.chunk.js",
+    "static/css/main.0d91319a.chunk.css",
+    "static/js/main.7657da04.chunk.js"
+  ]
+}
