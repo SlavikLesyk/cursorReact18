@@ -42,7 +42,7 @@ class App extends  React.Component{
               <Route path={path} component={component} exact={exact} key={index} />
               )}
               )}
-              <Route path='/' exact render={() => <Redirect to="/Home" />} />
+              <Route exact path={process.env.PUBLIC_URL + '/'}  render={() => <Redirect to="/Home" />} />
             </Switch>
           </div>
         </Router>
